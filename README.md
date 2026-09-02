@@ -45,7 +45,7 @@ I'm a developer who enjoys turning ideas into working products.
 
 ## 🚀 What I'm Currently Building
 
-### 🚨 Lognirman-AI — Public Safety Alert System
+### 🚨 CivicShield-AI — Public Safety Alert System
 
 A full-stack platform designed to help detect, manage and visualize public safety incidents.
 
