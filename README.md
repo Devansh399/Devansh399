@@ -34,7 +34,6 @@
 
 I'm a developer who enjoys turning ideas into working products.
 
-* 🔭 Currently working on **Lognirman-AI**
 * 💻 Focused on **Full Stack Development**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🤖 Exploring **AI, automation & intelligent systems**
