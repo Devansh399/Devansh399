@@ -135,7 +135,7 @@ A full-stack platform designed to help detect, manage and visualize public safet
 
 <td width="50%">
 
-<h3 align="center">🚨 Lognirman-AI</h3>
+<h3 align="center">🚨 CivicShield-Ai </h3>
 
 <p align="center">
   Public Safety Alert System
