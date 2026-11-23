@@ -134,11 +134,21 @@ An AI-powered application that helps candidates prepare for job opportunities by
 
 ---
 
+
 ### 3. 📚 Gyan Setu — Rural Learning Platform
 
-A web-based learning platform focused on making educational resources more accessible to rural learners.
+A web-based educational platform focused on making learning resources more accessible to students in rural communities. The project aims to help bridge the digital education gap through an accessible online learning experience.
 
-🔗 [Live Demo](https://gyansetu-rural-learning.vercel.app/)
+**Key Highlights:**
+- Designed around improving access to digital education for rural learners.
+- Provides a web-based platform for accessing learning resources.
+- Deployed frontend accessible through Vercel.
+- Separate backend repository for server-side functionality.
+
+**Tech Stack:** To be confirmed from the repository source code.
+
+🔗 [Live Demo](https://gyansetu-rural-learning.vercel.app/)  
+🔗 [Backend Repository](https://github.com/Devansh399/GyanSetuBackend)
 
 ---
 
