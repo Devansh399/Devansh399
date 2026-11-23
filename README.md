@@ -1,30 +1,28 @@
+
 <h1 align="center">Hi 👋, I'm Devansh Saxena</h1>
 
 <h3 align="center">
-  Full Stack Developer • Problem Solver • Lifelong Learner
+  Full Stack Developer | Backend Development | Problem Solving
 </h3>
 
 <p align="center">
+  Building practical applications, exploring backend engineering, and continuously learning new technologies.
+</p>
+
+<p align="center">
   <a href="https://github.com/Devansh399">
-    <img src="https://komarev.com/ghpvc/?username=Devansh399&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Devansh399&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/Devansh399?tab=followers">
-    <img src="https://img.shields.io/github/followers/Devansh399?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Devansh399?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Devansh399?label=Stars&style=flat" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/followers/Devansh399?label=Followers&style=flat&color=2563eb" alt="Followers" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:devanshsaxena360@gmail.com">Email</a>
-  •
-  <a href="https://github.com/Devansh399">GitHub</a>
-  •
-  <a href="https://leetcode.com/devanshsaxena777/">LeetCode</a>
-  •
-  <a href="https://www.hackerrank.com/@culturecoding866">HackerRank</a>
-  •
+  <a href="mailto:devanshsaxena360@gmail.com">Email</a> •
+  <a href="https://github.com/Devansh399">GitHub</a> •
+  <a href="https://leetcode.com/devanshsaxena777/">LeetCode</a> •
+  <a href="https://www.hackerrank.com/@culturecoding866">HackerRank</a> •
   <a href="https://auth.geeksforgeeks.org/user/devanshsa7t14">GeeksforGeeks</a>
 </p>
 
@@ -32,162 +30,156 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys turning ideas into working products.
+I'm a Computer Science undergraduate interested in building scalable applications and solving real-world problems through software development.
 
-* 💻 Focused on **Full Stack Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **AI, automation & intelligent systems**
-* 🚀 Building projects that solve real-world problems
-* ⚡ **Fun fact:** If I don't know it, I build it. That's how I grow as a developer. 🧑‍💻🔥
-
----
-
-## 🚀 What I'm Currently Building
-
-### 🚨 CivicShield-AI — Public Safety Alert System
-
-A full-stack platform designed to help detect, manage and visualize public safety incidents.
-
-**Working with:**
-
-`React` `Node.js` `Express` `MongoDB` `ML` `REST APIs` `Maps` `Real-time Alerts`
-
-🔗 **[View Project →](https://github.com/Devansh399/Public-Safety-Alert-System)**
+- 🎓 Pursuing B.Tech in Computer Science.
+- 💻 Building full-stack applications using the MERN ecosystem.
+- ⚙️ Exploring backend development, REST APIs, authentication, and databases.
+- 🧠 Practicing Data Structures and Algorithms using Java.
+- 🤖 Exploring AI/ML and Agentic AI applications.
+- 🚀 Learning Docker, CI/CD, cloud technologies, and backend architecture.
+- 📚 Interested in writing maintainable code and understanding how systems work internally.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
 
-### Languages
+- Strengthening backend development and system design fundamentals.
+- Learning advanced backend concepts, caching, and microservices.
+- Exploring AI-powered applications and agentic workflows.
+- Improving problem-solving skills through DSA.
+- Practicing Docker, Jenkins, and CI/CD workflows.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
 </p>
 
-### Frontend
+### Frontend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Database
+### Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma" />
+</p>
+
+### AI/ML & Real-Time Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+`REST APIs` `JWT Authentication` `RBAC` `Socket.IO` `Firebase Cloud Messaging` `Cloudinary` `ONNX Runtime`
 
 ### Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,photoshop" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,figma" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Devansh399&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh399&layout=compact&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
+### 1. 🚨 CivicShield — Public Safety Alert System
 
----
+A full-stack public safety platform designed to report, manage, and visualize incidents with AI-assisted image analysis and real-time notifications.
 
-## ⭐ GitHub Overview
+**Key Implementations:**
+- Role-based access control for Citizens, Authorities, and Admins.
+- JWT-based authentication and protected APIs.
+- Incident reporting with image uploads using Cloudinary.
+- MySQL database management using Prisma ORM.
+- Separate FastAPI-based ML service with ONNX Runtime.
+- Location-based incident discovery using Google Maps and Haversine distance.
+- Real-time notifications using Socket.IO and Firebase Cloud Messaging.
+- Docker-based development and deployment workflows.
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh399&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL, Prisma, FastAPI, ONNX Runtime, Socket.IO, FCM, Docker.
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Devansh399&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
+🔗 [View Repository](https://github.com/Devansh399/Public-Safety-Alert-System)
 
 ---
 
-## 📈 Contribution Activity
+### 2. 🤖 HireReady-AI — AI-Powered Interview Preparation
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh399&theme=github-compact&hide_border=true&area=true"
-    alt="Devansh's GitHub Activity Graph"
-  />
-</p>
+An AI-powered application that helps candidates prepare for job opportunities by analyzing job descriptions and resume information to generate personalized preparation guidance.
+
+**Key Implementations:**
+- React-based frontend with protected routes.
+- Node.js and Express backend.
+- JWT authentication and cookie-based session handling.
+- MongoDB for application data.
+- Gemini API integration for AI-generated preparation reports.
+- Backend file-handling middleware and report management.
+
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, JWT, Google Gemini API.
+
+🔗 [View Repository](https://github.com/Devansh399/HireReady-AI)
 
 ---
 
-# 🌟 Featured Projects
+### 3. 🖼️ ImageGallery — Full Stack Image Management
 
-<table>
-<tr>
+A full-stack application for uploading and managing images with backend image processing.
 
-<td width="50%">
+**Key Implementations:**
+- REST API development using Express.js.
+- MongoDB integration for image metadata.
+- Image uploads using Multer.
+- Image processing and resizing using Sharp.
+- React-based frontend.
 
-<h3 align="center">🚨 CivicShield-Ai </h3>
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Multer, Sharp.
+
+🔗 [View Repository](https://github.com/Devansh399/ImageGallery)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  Public Safety Alert System
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devansh399&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh399&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devansh399/Public-Safety-Alert-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh399&repo=Public-Safety-Alert-System&hide_border=true" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🛒 OnlineBazaar</h3>
-
-<p align="center">
-  Full Stack E-Commerce Platform
+  <img src="https://streak-stats.demolab.com?user=Devansh399&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devansh399">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh399&repo=OnlineBazaar&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh399&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
 </p>
-
-</td>
-
-</tr>
-</table>
-
-> 💡 Replace `OnlineBazaar` above with the **exact repository name** if your actual repo uses a different name.
 
 ---
 
 ## 💻 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/devanshsaxena777/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.hackerrank.com/@culturecoding866">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/devanshsa7t14">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
+  <a href="https://leetcode.com/devanshsaxena777/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/@culturecoding866">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/devanshsa7t14">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -195,23 +187,18 @@ A full-stack platform designed to help detect, manage and visualize public safet
 ## 📫 Let's Connect
 
 <p align="center">
-
-<a href="mailto:devanshsaxena360@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Devansh399">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i>
+  <a href="mailto:devanshsaxena360@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devansh399">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
