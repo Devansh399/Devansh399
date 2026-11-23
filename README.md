@@ -134,20 +134,11 @@ An AI-powered application that helps candidates prepare for job opportunities by
 
 ---
 
-### 3. 🖼️ ImageGallery — Full Stack Image Management
+### 3. 📚 Gyan Setu — Rural Learning Platform
 
-A full-stack application for uploading and managing images with backend image processing.
+A web-based learning platform focused on making educational resources more accessible to rural learners.
 
-**Key Implementations:**
-- REST API development using Express.js.
-- MongoDB integration for image metadata.
-- Image uploads using Multer.
-- Image processing and resizing using Sharp.
-- React-based frontend.
-
-**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Multer, Sharp.
-
-🔗 [View Repository](https://github.com/Devansh399/ImageGallery)
+🔗 [Live Demo](https://gyansetu-rural-learning.vercel.app/)
 
 ---
 
